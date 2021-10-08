@@ -7,5 +7,5 @@ app.get('/', (req, res) =>{
 })
 
 app.listen(8080, () => {
-    console.log("Hello!");
+    console.log("Hello! App is running!");
 });
